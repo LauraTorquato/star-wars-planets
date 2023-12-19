@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@300;400;500;600;700&display=swap");
+
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.description-box {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 402px;
+}
+
+.description {
+  color: white;
+  font-size: 20px;
+  width: 292px;
+  height: 97px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}

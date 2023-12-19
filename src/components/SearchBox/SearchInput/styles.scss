@@ -1,0 +1,38 @@
+.search-box {
+  height: 87px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+input {
+  color: white;
+  background-color: white;
+  width: 301px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  padding: 0;
+}
+
+input::placeholder {
+  font-size: 14px;
+  color: #7d7d7d;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+
+button {
+  color: white;
+  width: 301px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #de1212;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Lato", sans-serif;
+}
