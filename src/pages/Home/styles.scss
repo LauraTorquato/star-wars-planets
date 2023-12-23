@@ -2,7 +2,13 @@
 
 * {
   margin: 0;
-  // background-image: url("../../assets/background.png");
-  background: lightgreen;
   font-family: "Montserrat", "Lato", sans-serif;
+}
+
+.wrapper {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+  background-image: url("../../assets/background.png");
 }

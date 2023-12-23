@@ -1,4 +1,12 @@
-.filers-box {
+.filters-box {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+}
+
+.filters {
+  display: flex;
+  width: 240px;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
 }

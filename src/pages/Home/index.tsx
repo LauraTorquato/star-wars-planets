@@ -28,11 +28,11 @@ function Home() {
   console.log("1111111111111111111", planets);
 
   return (
-    <>
+    <div className="wrapper">
       <Header />
       <SearchBox />
       <Footer />
-    </>
+    </div>
   );
 }
 
