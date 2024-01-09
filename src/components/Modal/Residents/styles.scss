@@ -1,0 +1,32 @@
+.residents-informations {
+  width: 538px;
+  height: 114px;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+hr {
+  width: 501px;
+  margin: 0 12px;
+}
+
+.residents-number {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  width: 120px;
+  justify-content: space-evenly;
+  padding-left: 4px;
+}
+
+.residents-results {
+  width: 488px;
+  padding-left: 16px;
+}
+
+.residents-results span {
+  font-size: 14px;
+}

@@ -1,0 +1,31 @@
+.films-informations {
+  width: 538px;
+  height: 93px;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+hr {
+  width: 501px;
+  margin: 0 12px;
+}
+
+.films-number {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  width: 120px;
+  justify-content: space-evenly;
+}
+
+.films-results {
+  width: 488px;
+  padding-left: 16px;
+}
+
+.films-results span {
+  font-size: 14px;
+}
